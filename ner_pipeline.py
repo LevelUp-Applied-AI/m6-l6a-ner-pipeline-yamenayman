@@ -114,16 +114,30 @@ def extract_hf_entities(df, ner_pipeline):
     for _, row in en_df.iterrows():
         text_id = row['id']
         preds = ner_pipeline(row['text'])
-        
-        merged_preds = []
+
+        # Pass 1: merge WordPiece ## subword tokens back into whole words
+        merged_words = []
         for p in preds:
-            if p['word'].startswith('##') and merged_preds:
-                merged_preds[-1]['word'] += p['word'][2:]
-                merged_preds[-1]['end'] = p['end']
+            if p['word'].startswith('##') and merged_words:
+                merged_words[-1] = dict(merged_words[-1])  # make mutable copy
+                merged_words[-1]['word'] += p['word'][2:]
+                merged_words[-1]['end'] = p['end']
             else:
-                merged_preds.append(p.copy())
-                
-        for p in merged_preds:
+                merged_words.append(p.copy())
+
+        # Pass 2: merge consecutive I- tokens into the preceding B- entity span
+        merged_spans = []
+        for p in merged_words:
+            raw_label = p['entity']
+            if raw_label.startswith('I-') and merged_spans:
+                # extend the previous entity span
+                merged_spans[-1]['word'] += ' ' + p['word']
+                merged_spans[-1]['end'] = p['end']
+            else:
+                merged_spans.append(p.copy())
+
+        # Strip B-/I- prefix and collect results
+        for p in merged_spans:
             label = p['entity']
             if label.startswith('B-') or label.startswith('I-'):
                 label = label[2:]
