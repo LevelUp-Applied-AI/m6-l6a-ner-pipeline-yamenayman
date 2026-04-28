@@ -1,0 +1,103 @@
+{
+  "baseline": {
+    "precision": 0.6567,
+    "recall": 0.6471,
+    "f1": 0.6519,
+    "tp": 44,
+    "pred_count": 67,
+    "gold_count": 68
+  },
+  "ruler_before": {
+    "precision": 0.7627,
+    "recall": 0.6618,
+    "f1": 0.7087,
+    "tp": 45,
+    "pred_count": 59,
+    "gold_count": 68
+  },
+  "ruler_after": {
+    "precision": 0.6567,
+    "recall": 0.6471,
+    "f1": 0.6519,
+    "tp": 44,
+    "pred_count": 67,
+    "gold_count": 68
+  },
+  "qualitative_examples": {
+    "CLIMATE_EVENT": [
+      {
+        "entity": "COP28",
+        "text_id": 2,
+        "context": "\u2026At COP28 in Dubai, over 190 nations agreed to transition away from f\u2026"
+      },
+      {
+        "entity": "Bonn Climate Change Conference",
+        "text_id": 5,
+        "context": "\u2026Executive Secretary Simon Stiell addressed delegates at the Bonn Climate Change Conference in June 2024, emphasizing that current nationally determine\u2026"
+      },
+      {
+        "entity": "Climate Ambition Summit",
+        "text_id": 7,
+        "context": "\u2026tember 2023, the United Nations General Assembly hosted the Climate Ambition Summit in New York, where only nations with credible new climate c\u2026"
+      }
+    ],
+    "POLICY": [
+      {
+        "entity": "nationally determined contributions",
+        "text_id": 5,
+        "context": "\u2026te Change Conference in June 2024, emphasizing that current nationally determined contributions fall short of the Paris Agreement targets. He called for en\u2026"
+      },
+      {
+        "entity": "Paris Agreement",
+        "text_id": 5,
+        "context": "\u2026rrent nationally determined contributions fall short of the Paris Agreement targets. He called for enhanced ambition in the next round \u2026"
+      },
+      {
+        "entity": "NDCs",
+        "text_id": 5,
+        "context": "\u2026rgets. He called for enhanced ambition in the next round of NDCs due by February 2025 and stressed the importance of loss an\u2026"
+      }
+    ],
+    "REPORT": [
+      {
+        "entity": "Sixth Assessment Report",
+        "text_id": 1,
+        "context": "\u2026The IPCC released its Sixth Assessment Report in March 2023, warning that global temperatures could excee\u2026"
+      },
+      {
+        "entity": "State of Food and Agriculture",
+        "text_id": 8,
+        "context": "\u2026FAO published its State of Food and Agriculture 2023 report, dedicating an entire chapter to the intersecti\u2026"
+      }
+    ],
+    "THRESHOLD": [
+      {
+        "entity": "1.5 degrees Celsius",
+        "text_id": 1,
+        "context": "\u2026n March 2023, warning that global temperatures could exceed 1.5 degrees Celsius above pre-industrial levels by 2030. The report emphasized \u2026"
+      },
+      {
+        "entity": "2 degrees Celsius",
+        "text_id": 14,
+        "context": "\u2026 seven years during March 2024. Water temperatures exceeded 2 degrees Celsius above the seasonal average for 14 consecutive days. The ble\u2026"
+      },
+      {
+        "entity": "1.5 degree",
+        "text_id": 20,
+        "context": "\u2026eled tipping point interactions and found that crossing the 1.5 degree threshold could trigger a cascade of five interconnected ti\u2026"
+      }
+    ],
+    "AGREEMENT": [
+      {
+        "entity": "loss and damage",
+        "text_id": 5,
+        "context": "\u2026of NDCs due by February 2025 and stressed the importance of loss and damage financing for developing nations.\u2026"
+      },
+      {
+        "entity": "Loss and Damage",
+        "text_id": 48,
+        "context": "\u2026The Loss and Damage Fund, established at COP27 in Sharm el-Sheikh and operation\u2026"
+      }
+    ]
+  }
+}
