@@ -1,0 +1,1203 @@
+text_id,entity_text,entity_label,start_char,end_char,pipeline
+1,IPCC,ORG,4,8,baseline
+1,Sixth Assessment Report,EVENT,22,45,baseline
+1,March 2023,DATE,49,59,baseline
+1,1.5 degrees,QUANTITY,107,118,baseline
+1,2030,DATE,158,162,baseline
+1,Antonio Guterres,PERSON,283,299,baseline
+1,COP,ORG,428,431,baseline
+2,Dubai,GPE,12,17,baseline
+2,190,CARDINAL,24,27,baseline
+2,The United Arab Emirates,GPE,99,123,baseline
+2,two weeks,DATE,159,168,baseline
+2,2030,DATE,271,275,baseline
+3,The World Bank,ORG,0,14,baseline
+3,$12.5 billion,MONEY,27,40,baseline
+3,June 2024,DATE,68,77,baseline
+3,Sub-Saharan Africa,ORG,111,129,baseline
+3,South Asia,LOC,134,144,baseline
+3,World Bank,ORG,276,286,baseline
+3,Ajay Banga,PERSON,297,307,baseline
+4,Jordan,GPE,0,6,baseline
+4,National Climate Change Policy,ORG,9,39,baseline
+4,2022,DATE,52,56,baseline
+4,31%,PERCENT,118,121,baseline
+4,2030,DATE,125,129,baseline
+4,The Ministry of Environment,ORG,266,293,baseline
+4,UNDP,ORG,339,343,baseline
+4,the European Union,ORG,348,366,baseline
+5,UNFCCC,ORG,0,6,baseline
+5,Simon Stiell,PERSON,27,39,baseline
+5,the Bonn Climate Change Conference,ORG,63,97,baseline
+5,June 2024,DATE,101,110,baseline
+5,the Paris Agreement,EVENT,187,206,baseline
+5,February 2025,DATE,281,294,baseline
+6,The European Union's,ORG,0,20,baseline
+6,Carbon Border Adjustment Mechanism,ORG,21,55,baseline
+6,October 2023,DATE,90,102,baseline
+6,EU,ORG,275,277,baseline
+6,January 2026,DATE,409,421,baseline
+7,September 2023,DATE,3,17,baseline
+7,the United Nations General Assembly,ORG,19,54,baseline
+7,the Climate Ambition Summit,ORG,62,89,baseline
+7,New York,GPE,93,101,baseline
+7,the Paris Agreement,EVENT,358,377,baseline
+8,FAO,ORG,0,3,baseline
+8,State of Food and Agriculture 2023,ORG,18,52,baseline
+8,735 million,CARDINAL,173,184,baseline
+8,2022,DATE,216,220,baseline
+8,FAO,ORG,296,299,baseline
+8,Qu Dongyu,PERSON,317,326,baseline
+8,$4 billion,MONEY,338,348,baseline
+8,annual,DATE,352,358,baseline
+9,The Green Climate Fund,ORG,0,22,baseline
+9,$1.2 billion,MONEY,32,44,baseline
+9,October 2023,DATE,79,91,baseline
+9,Songdo,GPE,109,115,baseline
+9,South Korea,GPE,117,128,baseline
+9,$150 million,MONEY,158,170,baseline
+9,Bangladesh,GPE,201,211,baseline
+9,$90 million,MONEY,215,226,baseline
+9,the Congo Basin,LOC,255,270,baseline
+9,$45 million,MONEY,278,289,baseline
+9,Jordan,GPE,316,322,baseline
+9,$12 billion,MONEY,356,367,baseline
+10,China,GPE,0,5,baseline
+10,Change Xie Zhenhua,PERSON,34,52,baseline
+10,US,GPE,62,64,baseline
+10,John Kerry,PERSON,79,89,baseline
+10,Sunnylands,GPE,93,103,baseline
+10,California,GPE,105,115,baseline
+10,November 2023,DATE,119,132,baseline
+10,the Paris Agreement,EVENT,221,240,baseline
+11,NASA,ORG,15,19,baseline
+11,Goddard Institute for Space Studies,ORG,22,57,baseline
+11,2023,DATE,73,77,baseline
+11,the warmest year,DATE,82,98,baseline
+11,1.48 degrees Celsius,QUANTITY,143,163,baseline
+11,1850-1900,DATE,174,183,baseline
+11,El Nino,GPE,198,205,baseline
+11,mid-2023,DATE,232,240,baseline
+11,Southern Europe,LOC,311,326,baseline
+11,North Africa,GPE,328,340,baseline
+11,the Middle East,LOC,346,361,baseline
+11,July 2023,DATE,363,372,baseline
+11,the hottest month,DATE,377,394,baseline
+12,Science,GPE,21,28,baseline
+12,January 2024,DATE,32,44,baseline
+12,the Greenland Ice Sheet,ORG,56,79,baseline
+12,approximately 270 billion tonnes,QUANTITY,85,117,baseline
+12,between 2006 and 2022,DATE,134,155,baseline
+12,GRACE,ORG,213,218,baseline
+12,GRACE-FO,ORG,223,231,baseline
+12,approximately 0.7 millimeters,QUANTITY,286,315,baseline
+12,2010,DATE,390,394,baseline
+13,Arctic,LOC,4,10,baseline
+13,sixth,ORDINAL,38,43,baseline
+13,September 2023,DATE,70,84,baseline
+13,the National Snow and Ice Data Center,ORG,99,136,baseline
+13,Boulder,GPE,140,147,baseline
+13,Colorado,GPE,149,157,baseline
+13,15,CARDINAL,184,186,baseline
+13,Arctic sea,LOC,194,204,baseline
+13,the last 15 years,DATE,238,255,baseline
+14,the Great Barrier Reef Foundation,FAC,21,54,baseline
+14,fourth,ORDINAL,70,76,baseline
+14,seven years,DATE,107,118,baseline
+14,March 2024,DATE,126,136,baseline
+14,2 degrees,QUANTITY,166,175,baseline
+14,14 consecutive days,DATE,215,234,baseline
+14,75%,PERCENT,259,262,baseline
+14,"over 1,500",CARDINAL,320,330,baseline
+14,400,CARDINAL,348,351,baseline
+15,the Max Planck Institute for Meteorology,ORG,12,52,baseline
+15,Nature Geoscience,WORK_OF_ART,75,92,baseline
+15,the Atlantic Meridional Overturning Circulation,ORG,106,153,baseline
+15,approximately 15%,PERCENT,170,187,baseline
+15,1950,DATE,194,198,baseline
+15,AMOC,ORG,204,208,baseline
+15,the North Atlantic,LOC,251,269,baseline
+15,Northern Europe,LOC,326,341,baseline
+15,US,GPE,412,414,baseline
+15,East Coast,LOC,415,425,baseline
+16,Atmospheric CO2,PERSON,0,15,baseline
+16,the Mauna Loa Observatory,FAC,34,59,baseline
+16,Hawaii,GPE,63,69,baseline
+16,424.0,CARDINAL,78,83,baseline
+16,May 2024,DATE,105,113,baseline
+16,NOAA,ORG,128,132,baseline
+16,2.8,CARDINAL,152,155,baseline
+16,the previous year,DATE,174,191,baseline
+16,1958,DATE,260,264,baseline
+16,approximately 50%,PERCENT,295,312,baseline
+16,280,CARDINAL,353,356,baseline
+17,the University of Leeds,ORG,17,40,baseline
+17,227 billion tonnes,QUANTITY,99,117,baseline
+17,2000-2009,DATE,134,143,baseline
+17,298 billion tonnes,QUANTITY,154,172,baseline
+17,2010-2019,DATE,185,194,baseline
+17,Geophysical Research Letters,ORG,220,248,baseline
+17,"217,175",CARDINAL,259,266,baseline
+17,Himalayan,NORP,301,310,baseline
+17,the early 2000s,DATE,366,381,baseline
+17,1.9 billion,CARDINAL,414,425,baseline
+18,The World Meteorological Organization,ORG,0,37,baseline
+18,4.5 millimeters,QUANTITY,82,97,baseline
+18,2023,DATE,101,105,baseline
+18,annual,DATE,119,125,baseline
+18,1993,DATE,168,172,baseline
+18,approximately 40%,PERCENT,221,238,baseline
+18,WMO,ORG,317,320,baseline
+18,Celeste Saulo,PERSON,339,352,baseline
+18,decades,DATE,417,424,baseline
+19,the National Academy of Sciences,ORG,30,62,baseline
+19,Siberia,LOC,93,100,baseline
+19,Alaska,GPE,105,111,baseline
+19,approximately 600 million tonnes,QUANTITY,121,153,baseline
+19,CO2,PRODUCT,157,160,baseline
+19,2022,DATE,175,179,baseline
+19,80,CARDINAL,252,254,baseline
+19,20-year,DATE,300,307,baseline
+19,"roughly 1,500 billion tonnes",QUANTITY,374,402,baseline
+20,the Potsdam Institute for Climate Impact Research,ORG,14,63,baseline
+20,1.5 degree,QUANTITY,127,137,baseline
+20,five,CARDINAL,175,179,baseline
+20,the Greenland Ice Sheet,ORG,213,236,baseline
+20,the West Antarctic Ice Sheet,LOC,238,266,baseline
+20,the Atlantic Meridional Overturning Circulation,ORG,317,364,baseline
+20,Science,GPE,393,400,baseline
+20,September 2023,DATE,404,418,baseline
+21,The European Space Agency's,ORG,0,27,baseline
+21,Copernicus Climate Change Service,ORG,28,61,baseline
+21,September 2023,DATE,76,90,baseline
+21,1.75 degrees,QUANTITY,95,107,baseline
+21,0.5 degrees,QUANTITY,190,201,baseline
+21,El Nino,GPE,246,253,baseline
+21,Saharan,GPE,263,270,baseline
+21,Antarctic sea,LOC,301,314,baseline
+21,Copernicus,ORG,327,337,baseline
+21,Carlo Buontempo,PERSON,347,362,baseline
+22,30%,PERCENT,37,40,baseline
+22,1800,DATE,47,51,baseline
+22,CO2,PRODUCT,85,88,baseline
+22,Annual Review of Marine Science,ORG,125,156,baseline
+22,8.1,CARDINAL,182,185,baseline
+22,8.2,CARDINAL,250,253,baseline
+22,the Southern Ocean,LOC,302,320,baseline
+22,Arctic,LOC,325,331,baseline
+23,The Dead Sea,LOC,0,12,baseline
+23,approximately one-third,CARDINAL,22,45,baseline
+23,1960,DATE,72,76,baseline
+23,more than 1 meter,QUANTITY,108,125,baseline
+23,the Jordan River,LOC,172,188,baseline
+23,"7,000",CARDINAL,287,292,baseline
+23,Jordan,GPE,390,396,baseline
+23,the West Bank,GPE,401,414,baseline
+24,Mediterranean,LOC,0,13,baseline
+24,the summer of 2023,DATE,27,45,baseline
+24,"400,000",CARDINAL,58,65,baseline
+24,Greece,GPE,82,88,baseline
+24,Turkey,GPE,90,96,baseline
+24,Algeria,GPE,98,105,baseline
+24,Tunisia,GPE,111,118,baseline
+24,48 degrees,QUANTITY,143,153,baseline
+24,Sicily,GPE,165,171,baseline
+24,European,NORP,182,190,baseline
+24,"20,000",CARDINAL,224,230,baseline
+24,an estimated $3.5 billion,MONEY,249,274,baseline
+24,Mediterranean,LOC,336,349,baseline
+24,40 days,DATE,368,375,baseline
+24,the 1980s,DATE,382,391,baseline
+25,Pacific Island,LOC,0,14,baseline
+25,Tuvalu,GPE,33,39,baseline
+25,Kiribati,GPE,41,49,baseline
+25,up to 50%,PERCENT,140,149,baseline
+25,the Marshall Islands',GPE,153,174,baseline
+25,2100,CARDINAL,207,211,baseline
+25,just 2 meters,QUANTITY,243,256,baseline
+25,2023,DATE,277,281,baseline
+25,Tuvalu,ORG,283,289,baseline
+25,Australia,GPE,315,324,baseline
+25,up to 280,CARDINAL,356,365,baseline
+26,Flash,PERSON,0,5,baseline
+26,Derna,GPE,16,21,baseline
+26,Libya,GPE,23,28,baseline
+26,September 2023,DATE,32,46,baseline
+26,"over 11,000",CARDINAL,54,65,baseline
+26,"40,000",CARDINAL,87,93,baseline
+26,Storm Daniel,ORG,99,111,baseline
+26,two,CARDINAL,119,122,baseline
+26,414 millimeters,QUANTITY,171,186,baseline
+26,24 hours,TIME,190,198,baseline
+26,annual,DATE,218,224,baseline
+26,270,CARDINAL,236,239,baseline
+26,50,CARDINAL,306,308,baseline
+26,50%,PERCENT,331,334,baseline
+27,Jordan,GPE,0,6,baseline
+27,approximately 80 cubic meters,QUANTITY,115,144,baseline
+27,500 cubic meters,QUANTITY,201,217,baseline
+27,the Jordan Valley,LOC,359,376,baseline
+28,25%,PERCENT,51,54,baseline
+28,2000,DATE,61,65,baseline
+28,the African Union's Climate Research Centre,ORG,91,134,baseline
+28,Mediterranean,LOC,188,201,baseline
+28,Southern Europe,LOC,207,222,baseline
+28,up to 30%,PERCENT,297,306,baseline
+28,March 2024,DATE,311,321,baseline
+28,Scandinavia,LOC,377,388,baseline
+29,Amman,GPE,0,5,baseline
+29,2023,DATE,50,54,baseline
+29,40 degrees,QUANTITY,84,94,baseline
+29,18 separate days,DATE,106,122,baseline
+29,August,DATE,140,146,baseline
+29,The Jordanian Department of Meteorology,ORG,148,187,baseline
+29,summer,DATE,210,216,baseline
+29,2.1 degrees,QUANTITY,248,259,baseline
+29,1970,DATE,274,278,baseline
+29,35%,PERCENT,336,339,baseline
+29,2018-2022,DATE,356,365,baseline
+30,The IPCC Working Group II,ORG,0,25,baseline
+30,21%,PERCENT,126,129,baseline
+30,1961,DATE,136,140,baseline
+30,South Asia,LOC,158,168,baseline
+30,Sub-Saharan Africa,ORG,189,207,baseline
+30,10-25%,PERCENT,236,242,baseline
+30,2 degrees,QUANTITY,249,258,baseline
+30,3.3 to 3.6 billion,QUANTITY,297,315,baseline
+31,Hurricane Otis,EVENT,0,14,baseline
+31,Acapulco,GPE,34,42,baseline
+31,Mexico,GPE,44,50,baseline
+31,"October 25, 2023",DATE,54,70,baseline
+31,270 kilometers per hour,QUANTITY,117,140,baseline
+31,Category 5,LAW,189,199,baseline
+31,just 12 hours,TIME,203,216,baseline
+31,the Eastern Pacific,LOC,267,286,baseline
+31,over $16 billion,MONEY,308,324,baseline
+31,at least 52,CARDINAL,347,358,baseline
+32,Sahel,PERSON,4,9,baseline
+32,Africa,LOC,20,26,baseline
+32,a decade,DATE,64,72,baseline
+32,2023,DATE,80,84,baseline
+32,45 million,CARDINAL,91,101,baseline
+32,Burkina Faso,GPE,233,245,baseline
+32,Mali,PERSON,247,251,baseline
+32,Niger,PERSON,253,258,baseline
+32,Chad,GPE,264,268,baseline
+32,The World Food Programme,ORG,270,294,baseline
+32,12 million,CARDINAL,324,334,baseline
+32,millions,CARDINAL,383,391,baseline
+33,Himalayas,FAC,36,45,baseline
+33,10,CARDINAL,64,66,baseline
+33,1990,DATE,79,83,baseline
+33,October 2023,DATE,88,100,baseline
+33,GLOF,ORG,104,108,baseline
+33,Sikkim,GPE,112,118,baseline
+33,India,GPE,120,125,baseline
+33,Teesta III,PERSON,140,150,baseline
+33,over 40,CARDINAL,174,181,baseline
+33,23 billion dollar,MONEY,229,246,baseline
+33,less than a year,DATE,276,292,baseline
+33,"over 5,000",CARDINAL,319,329,baseline
+33,Hindu,NORP,351,356,baseline
+33,Kush Himalaya,PERSON,357,370,baseline
+34,approximately 500 million,CARDINAL,54,79,baseline
+34,70-90%,PERCENT,125,131,baseline
+34,1.5 degrees,QUANTITY,138,149,baseline
+34,2 degrees,QUANTITY,188,197,baseline
+34,$375 billion,MONEY,312,324,baseline
+34,Caribbean,LOC,348,357,baseline
+34,50%,PERCENT,375,378,baseline
+34,1970,DATE,404,408,baseline
+35,Jordan,GPE,0,6,baseline
+35,Disi Water Conveyance Project,ORG,9,38,baseline
+35,2013,DATE,53,57,baseline
+35,$990 million,MONEY,71,83,baseline
+35,100 million cubic meters,QUANTITY,96,120,baseline
+35,annually,DATE,130,138,baseline
+35,Disi,NORP,148,152,baseline
+35,Amman,GPE,164,169,baseline
+35,Aqaba,GPE,174,179,baseline
+35,50 years,DATE,296,304,baseline
+36,The Kingdom of Jordan,GPE,0,21,baseline
+36,200-megawatt,QUANTITY,36,48,baseline
+36,Mafraq,GPE,70,76,baseline
+36,January 2024,DATE,80,92,baseline
+36,"2,400 megawatts",QUANTITY,152,167,baseline
+36,Jordan,PERSON,169,175,baseline
+36,50%,PERCENT,193,196,baseline
+36,2030,DATE,242,246,baseline
+36,29%,PERCENT,256,259,baseline
+36,2023,DATE,263,267,baseline
+36,Mafraq,GPE,273,279,baseline
+36,the European Bank for Reconstruction and Development,ORG,299,351,baseline
+36,"approximately 110,000",CARDINAL,364,385,baseline
+37,Singapore,GPE,0,9,baseline
+37,$72 billion,MONEY,52,63,baseline
+37,100 years,DATE,80,89,baseline
+37,up to 4 meters,QUANTITY,173,187,baseline
+37,The Tuas Nexus,ORG,261,275,baseline
+37,2025,DATE,334,338,baseline
+38,UNEP,ORG,0,4,baseline
+38,Adaptation Gap Report,ORG,7,28,baseline
+38,2023,DATE,29,33,baseline
+38,10 to 18,CARDINAL,98,106,baseline
+38,annual,DATE,177,183,baseline
+38,215,MONEY,205,208,baseline
+38,$387 billion,MONEY,212,224,baseline
+38,Only $21 billion,MONEY,248,264,baseline
+38,2021,DATE,321,325,baseline
+39,Netherlands,GPE,4,15,baseline
+39,River,LOC,30,35,baseline
+39,2019,DATE,58,62,baseline
+39,2.3 billion,CARDINAL,76,87,baseline
+39,34,CARDINAL,106,108,baseline
+39,"the Rhine, Meuse",ORG,125,141,baseline
+39,Europe,LOC,388,394,baseline
+40,Kenya,GPE,0,5,baseline
+40,Great Green Wall,FAC,8,24,baseline
+40,over 15 million,CARDINAL,48,63,baseline
+40,400-kilometer,QUANTITY,78,91,baseline
+40,2020,DATE,135,139,baseline
+40,"12,000",CARDINAL,161,167,baseline
+40,"5,000",CARDINAL,203,208,baseline
+40,FAO,ORG,236,239,baseline
+40,the World Bank,ORG,294,308,baseline
+41,Bangladesh,GPE,0,10,baseline
+41,1972,DATE,60,64,baseline
+41,Red Cross,ORG,83,92,baseline
+41,over 99%,PERCENT,135,143,baseline
+41,"76,000",CARDINAL,202,208,baseline
+41,"4,000",CARDINAL,229,234,baseline
+41,35 million,CARDINAL,295,305,baseline
+41,12,MONEY,330,332,baseline
+41,annual,DATE,344,350,baseline
+41,one,CARDINAL,370,373,baseline
+42,Abu Dhabi's,ORG,0,11,baseline
+42,Masdar City,GPE,12,23,baseline
+42,15 to,CARDINAL,142,147,baseline
+42,20 degrees,QUANTITY,148,158,baseline
+42,10-megawatt,QUANTITY,220,231,baseline
+42,2024,DATE,312,316,baseline
+42,Masdar City,GPE,318,329,baseline
+42,"6,000",CARDINAL,337,342,baseline
+42,600,CARDINAL,357,360,baseline
+42,the International Renewable Energy Agency,ORG,403,444,baseline
+43,Amman,GPE,12,17,baseline
+43,Climate Action Plan,LAW,31,50,baseline
+43,2021,DATE,54,58,baseline
+43,40%,PERCENT,72,75,baseline
+43,2030,DATE,127,131,baseline
+43,"300,000",CARDINAL,192,199,baseline
+43,daily,DATE,200,205,baseline
+43,"25,000",CARDINAL,218,224,baseline
+44,Israel,GPE,0,6,baseline
+44,2025,DATE,65,69,baseline
+44,200 million cubic meters,QUANTITY,84,108,baseline
+44,annually,DATE,127,135,baseline
+44,0.40,MONEY,150,154,baseline
+44,Israel,GPE,254,260,baseline
+44,80%,PERCENT,281,284,baseline
+45,Costa Rica,GPE,0,10,baseline
+45,99.5%,PERCENT,20,25,baseline
+45,2023,DATE,62,66,baseline
+45,98%,PERCENT,160,163,baseline
+45,nine consecutive years,DATE,189,211,baseline
+45,Costa Rica's,GPE,213,225,baseline
+45,National Decarbonization Plan,ORG,226,255,baseline
+45,2050,DATE,286,290,baseline
+45,"60,000",CARDINAL,358,364,baseline
+45,2025,DATE,417,421,baseline
+46,The African Development Bank's,ORG,0,30,baseline
+46,10,CARDINAL,74,76,baseline
+46,11,CARDINAL,112,114,baseline
+46,Sahel,PRODUCT,115,120,baseline
+46,2030,DATE,134,138,baseline
+46,250 million,CARDINAL,165,176,baseline
+46,2024,DATE,191,195,baseline
+46,3.2,CARDINAL,197,200,baseline
+46,rural health clinics,ORG,283,303,baseline
+46,"15,000",CARDINAL,383,389,baseline
+47,India,GPE,0,5,baseline
+47,Nationally Determined Contribution,ORG,16,50,baseline
+47,50%,PERCENT,70,73,baseline
+47,2030,DATE,151,155,baseline
+47,45%,PERCENT,198,201,baseline
+47,2005,DATE,207,211,baseline
+47,Narendra Modi,PERSON,235,248,baseline
+47,Glasgow,GPE,283,290,baseline
+47,November 2021,DATE,294,307,baseline
+47,2070,DATE,340,344,baseline
+48,COP27,GPE,41,46,baseline
+48,Sharm el-Sheikh,GPE,50,65,baseline
+48,$792 million,MONEY,130,142,baseline
+48,Germany,GPE,144,151,baseline
+48,UAE,ORG,160,163,baseline
+48,$100 million,MONEY,177,189,baseline
+48,United Kingdom,GPE,201,215,baseline
+48,$75 million,MONEY,226,237,baseline
+48,the estimated $400 billion,MONEY,299,325,baseline
+48,annual,DATE,329,335,baseline
+49,Brazil,GPE,0,6,baseline
+49,Ministry of Environment and Climate Change,ORG,9,51,baseline
+49,August 2023,DATE,65,76,baseline
+49,Amazon,ORG,82,88,baseline
+49,48%,PERCENT,119,122,baseline
+49,the first seven months,DATE,126,148,baseline
+49,Lula da Silva,PERSON,162,175,baseline
+49,2022,DATE,224,228,baseline
+49,IBAMA,ORG,280,285,baseline
+49,the Amazon Fund,ORG,310,325,baseline
+49,$500 million,MONEY,342,354,baseline
+49,Norway,GPE,360,366,baseline
+49,Germany,GPE,371,378,baseline
+50,The International Energy Agency's,ORG,0,33,baseline
+50,Net Zero,ORG,34,42,baseline
+50,2050,DATE,46,50,baseline
+50,2021,DATE,169,173,baseline
+50,annual,DATE,197,203,baseline
+50,$4 trillion,MONEY,237,248,baseline
+50,2030,DATE,252,256,baseline
+50,$1.3 trillion,MONEY,266,279,baseline
+50,2022,DATE,283,287,baseline
+50,IEA,ORG,289,292,baseline
+50,Fatih Birol,PERSON,312,323,baseline
+51,Saudi Arabia's,GPE,0,14,baseline
+51,Vision 2030,ORG,15,26,baseline
+51,50%,PERCENT,59,62,baseline
+51,$500 billion,MONEY,118,130,baseline
+51,"2,600-megawatt",QUANTITY,161,175,baseline
+51,Sudair,ORG,176,182,baseline
+51,278 million tonnes,QUANTITY,248,266,baseline
+51,annually,DATE,267,275,baseline
+51,2030,DATE,279,283,baseline
+51,Saudi,NORP,296,301,baseline
+51,Green Initiative,GPE,302,318,baseline
+51,Middle East Green Initiative,LOC,335,363,baseline
+51,50 billion,CARDINAL,385,395,baseline
+52,The Kigali Amendment,LAW,0,20,baseline
+52,the Montreal Protocol,LAW,24,45,baseline
+52,January 2019,DATE,75,87,baseline
+52,80%,PERCENT,101,104,baseline
+52,2047,DATE,166,170,baseline
+52,thousands,CARDINAL,229,238,baseline
+52,UNEP,ORG,266,270,baseline
+52,the Kigali Amendment,LAW,309,329,baseline
+52,0.5 degrees,QUANTITY,347,358,baseline
+52,2100,DATE,381,385,baseline
+53,Jordanian,NORP,4,13,baseline
+53,the Renewable Energy and Energy Efficiency Law,ORG,32,78,baseline
+53,December 2023,DATE,82,95,baseline
+53,$50 million,MONEY,278,289,baseline
+53,the Central Bank of Jordan,ORG,336,362,baseline
+54,Nature Communications,ORG,21,42,baseline
+54,February 2024,DATE,46,59,baseline
+54,Arctic,LOC,109,115,baseline
+54,first,ORDINAL,137,142,baseline
+54,September,DATE,152,161,baseline
+54,a decade earlier,DATE,185,201,baseline
+54,40 years,DATE,273,281,baseline
+54,2050,DATE,413,417,baseline
+55,CO2,PRODUCT,47,50,baseline
+55,36.8 billion tonnes,QUANTITY,100,119,baseline
+55,2023,DATE,123,127,baseline
+55,1.1%,PERCENT,131,135,baseline
+55,2022,DATE,150,154,baseline
+55,1.0%,PERCENT,179,183,baseline
+55,15.5 billion tonnes,QUANTITY,187,206,baseline
+55,1.5%,PERCENT,235,239,baseline
+55,0.5%,PERCENT,275,279,baseline
+55,India,GPE,281,286,baseline
+55,China,GPE,291,296,baseline
+55,the European Union,ORG,371,389,baseline
+55,7.4%,PERCENT,402,406,baseline
+56,"1,923",CARDINAL,49,54,baseline
+56,2023,DATE,76,80,baseline
+56,more than 2.5,CARDINAL,82,95,baseline
+56,722,CARDINAL,130,133,baseline
+56,March 2024,DATE,194,204,baseline
+56,80,CARDINAL,349,351,baseline
+56,CO2,PRODUCT,366,369,baseline
+56,20-year,DATE,377,384,baseline
+57,The British Antarctic Survey,ORG,0,28,baseline
+57,February 2024,DATE,41,54,baseline
+57,Antarctic sea,LOC,60,73,baseline
+57,9,CARDINAL,128,129,baseline
+57,the preceding 12 months,DATE,133,156,baseline
+57,2.6 million square kilometers,QUANTITY,177,206,baseline
+57,1981-2010,DATE,224,233,baseline
+57,Antarctic ice,LOC,314,327,baseline
+58,ETH Zurich,ORG,10,20,baseline
+58,Nature,WORK_OF_ART,42,48,baseline
+58,2023 summer,DATE,62,73,baseline
+58,the Northern Hemisphere,LOC,87,110,baseline
+58,The World Weather Attribution,ORG,185,214,baseline
+58,July 2023,DATE,241,250,baseline
+58,Southern Europe,LOC,263,278,baseline
+58,North Africa,GPE,280,292,baseline
+58,the Middle East,LOC,298,313,baseline
+58,approximately 2.5 degrees,QUANTITY,323,348,baseline
+58,Phoenix,GPE,383,390,baseline
+58,Arizona,GPE,392,399,baseline
+58,31 consecutive days,DATE,412,431,baseline
+58,43 degrees,QUANTITY,438,448,baseline
+59,Pakistan,GPE,26,34,baseline
+59,August,DATE,42,48,baseline
+59,September 2022,DATE,53,67,baseline
+59,one-third,CARDINAL,78,87,baseline
+59,33 million,CARDINAL,113,123,baseline
+59,over $30 billion,MONEY,143,159,baseline
+59,190%,PERCENT,215,219,baseline
+59,Karakoram,LOC,276,285,baseline
+59,Hindu Kush,PERSON,290,300,baseline
+59,The World Health Organization,ORG,309,338,baseline
+59,"1,739",CARDINAL,348,353,baseline
+59,8 million,CARDINAL,414,423,baseline
+60,the United States,GPE,54,71,baseline
+60,$92.9 billion,MONEY,80,93,baseline
+60,2023,DATE,97,101,baseline
+60,NOAA,ORG,116,120,baseline
+60,28,CARDINAL,133,135,baseline
+60,billion-dollar,MONEY,145,159,baseline
+60,Hawaii,GPE,200,206,baseline
+60,Lahaina,GPE,243,250,baseline
+60,100,CARDINAL,262,265,baseline
+61,The World Health Organization,ORG,0,29,baseline
+61,"approximately 250,000",CARDINAL,71,92,baseline
+61,between 2030,DATE,120,132,baseline
+61,2050,DATE,137,141,baseline
+61,The Lancet Countdown on Health and Climate Change,ORG,203,252,baseline
+61,68%,PERCENT,324,327,baseline
+61,between 2000 and 2022,DATE,328,349,baseline
+61,the Middle East,LOC,356,371,baseline
+61,South Asia,LOC,376,386,baseline
+62,East Africa,GPE,3,14,baseline
+62,2020-2023,DATE,20,29,baseline
+62,40 years,DATE,55,63,baseline
+62,36 million,CARDINAL,75,85,baseline
+62,Kenya,GPE,100,105,baseline
+62,Somalia,GPE,107,114,baseline
+62,Ethiopia,GPE,120,128,baseline
+62,Five,CARDINAL,130,134,baseline
+62,over 13 million,CARDINAL,188,203,baseline
+62,late 2023,DATE,302,311,baseline
+62,2.4 million,CARDINAL,384,395,baseline
+62,Somalia,GPE,406,413,baseline
+63,Amman,GPE,15,20,baseline
+63,the 2023 summer,DATE,55,70,baseline
+63,75 micrograms per cubic meter,QUANTITY,117,146,baseline
+63,12 days,DATE,150,157,baseline
+63,three,CARDINAL,159,164,baseline
+63,WHO,ORG,175,178,baseline
+63,25,CARDINAL,192,194,baseline
+63,4.2 million,CARDINAL,344,355,baseline
+63,The Ministry of Health,ORG,367,389,baseline
+64,2023,DATE,50,54,baseline
+64,the Internal Displacement Monitoring Centre,ORG,61,104,baseline
+64,26.4 million,CARDINAL,115,127,baseline
+64,The Middle East,LOC,186,201,baseline
+64,North Africa,GPE,206,218,baseline
+64,1.2 million,CARDINAL,230,241,baseline
+64,Libya,GPE,290,295,baseline
+64,Levant,GPE,319,325,baseline
+64,UNHCR,ORG,327,332,baseline
+64,Jordan,GPE,410,416,baseline
+64,Lebanon,GPE,418,425,baseline
+64,Turkey,GPE,431,437,baseline
+65,Morocco,GPE,0,7,baseline
+65,Noor-Ouarzazate,ORG,10,25,baseline
+65,one,CARDINAL,60,63,baseline
+65,580 megawatts,QUANTITY,90,103,baseline
+65,up to 7 hours,TIME,166,179,baseline
+65,$2.5 billion,MONEY,198,210,baseline
+65,Morocco,GPE,228,235,baseline
+65,CO2,PRODUCT,238,241,baseline
+65,"760,000 tonnes",QUANTITY,255,269,baseline
+65,annually,DATE,270,278,baseline
+65,Morocco,GPE,280,287,baseline
+65,52%,PERCENT,302,305,baseline
+65,2030,DATE,335,339,baseline
+65,Sahara,LOC,372,378,baseline
+65,Europe,LOC,416,422,baseline
+66,Sahara,LOC,28,34,baseline
+66,Sahel Initiative,PERSON,39,55,baseline
+66,2007,DATE,69,73,baseline
+66,100 million,CARDINAL,91,102,baseline
+66,"8,000 kilometers",QUANTITY,136,152,baseline
+66,Senegal,GPE,158,165,baseline
+66,Djibouti,GPE,169,177,baseline
+66,2024,DATE,185,189,baseline
+66,approximately 18 million,QUANTITY,191,215,baseline
+66,UNEP,ORG,245,249,baseline
+66,20,CARDINAL,278,280,baseline
+66,African,NORP,281,288,baseline
+66,$19 billion,MONEY,326,337,baseline
+66,the One Planet Summit,ORG,360,381,baseline
+66,January 2021,DATE,385,397,baseline
+67,Denmark,GPE,0,7,baseline
+67,Kalundborg Symbiosis,ORG,10,30,baseline
+67,1972,DATE,48,52,baseline
+67,Nine,CARDINAL,115,119,baseline
+67,"5,000",CARDINAL,201,206,baseline
+67,"635,000 tonnes",QUANTITY,337,351,baseline
+67,$28 million,MONEY,395,406,baseline
+67,annually,DATE,407,415,baseline
+68,Medina al-Munawwarah,GPE,12,32,baseline
+68,2023,DATE,73,77,baseline
+68,3-degree,QUANTITY,156,164,baseline
+68,2027,DATE,249,253,baseline
+68,Saudi Arabia's,GPE,281,295,baseline
+68,$2 billion,MONEY,355,365,baseline
+69,Egypt,GPE,0,5,baseline
+69,National Adaptation Plan,ORG,8,32,baseline
+69,the Nile Delta,LOC,45,59,baseline
+69,50%,PERCENT,67,70,baseline
+69,$3.5 billion,MONEY,173,185,baseline
+69,the Agricultural Research Centre,ORG,298,330,baseline
+69,Delta,ORG,336,341,baseline
+69,60%,PERCENT,351,354,baseline
+69,Egypt,GPE,358,363,baseline
+69,40%,PERCENT,375,378,baseline
+69,40 million,CARDINAL,403,413,baseline
+70,Middle Eastern,NORP,29,43,baseline
+70,3 to 8 degrees Celsius,QUANTITY,83,105,baseline
+70,Amman,GPE,131,136,baseline
+70,Riyadh,GPE,138,144,baseline
+70,Baghdad,GPE,150,157,baseline
+71,UNEP,ORG,0,4,baseline
+71,Emissions Gap Report,ORG,7,27,baseline
+71,2023,DATE,28,32,baseline
+71,2.5,CARDINAL,88,91,baseline
+71,2.9 degrees,QUANTITY,95,106,baseline
+71,2100,DATE,129,133,baseline
+71,2.0 degrees,QUANTITY,218,229,baseline
+71,the Paris Agreement,EVENT,243,262,baseline
+71,42%,PERCENT,293,296,baseline
+71,2030,DATE,330,334,baseline
+71,57%,PERCENT,341,344,baseline
+71,2035,DATE,358,362,baseline
+71,2019,DATE,375,379,baseline
+72,Jordan,GPE,85,91,baseline
+72,Israel,GPE,93,99,baseline
+72,the Palestinian Authority,ORG,105,130,baseline
+72,300 million cubic meters,QUANTITY,148,172,baseline
+72,Dead Sea,LOC,221,229,baseline
+72,$10 billion,MONEY,242,253,baseline
+72,800 megawatts,QUANTITY,306,319,baseline
+72,400-meter,QUANTITY,330,339,baseline
+72,the Red Sea,LOC,369,380,baseline
+72,2024,DATE,401,405,baseline
+72,World Bank,ORG,442,452,baseline
+73,The Lancet Planetary Health,ORG,28,55,baseline
+73,35 degrees,QUANTITY,98,108,baseline
+73,12%,PERCENT,160,163,baseline
+73,the Middle East,LOC,177,192,baseline
+73,South Asia,LOC,197,207,baseline
+73,$2.4 trillion,MONEY,268,281,baseline
+73,annually,DATE,282,290,baseline
+73,2030,DATE,294,298,baseline
+73,Jordan,PERSON,300,306,baseline
+73,40%,PERCENT,381,384,baseline
+73,months,DATE,428,434,baseline
+74,Antarctic,ORG,4,13,baseline
+74,26.0 million square kilometers,QUANTITY,55,85,baseline
+74,"September 21, 2023",DATE,89,107,baseline
+74,12th,ORDINAL,124,128,baseline
+74,1979,DATE,160,164,baseline
+74,the Montreal Protocol,ORG,172,193,baseline
+74,approximately 2066,DATE,269,287,baseline
+74,Antarctica,LOC,293,303,baseline
+74,NOAA,ORG,321,325,baseline
+74,NASA,ORG,330,334,baseline
+75,Mediterranean,LOC,77,90,baseline
+75,5-15%,PERCENT,101,106,baseline
+75,2050,DATE,110,114,baseline
+75,Jordan,GPE,162,168,baseline
+75,Al Tafila,PERSON,171,180,baseline
+75,38,CARDINAL,202,204,baseline
+75,117 megawatts,QUANTITY,217,230,baseline
+75,"approximately 80,000",CARDINAL,365,385,baseline
+75,Jordanian,NORP,386,395,baseline
+75,annually,DATE,407,415,baseline
+76,The Intergovernmental Panel on Climate Change Special Report,ORG,0,60,baseline
+76,90%,PERCENT,130,133,baseline
+76,1970,DATE,197,201,baseline
+76,Marine,ORG,203,209,baseline
+76,1982,DATE,252,256,baseline
+76,20 to 50,CARDINAL,285,293,baseline
+76,2 degrees,QUANTITY,320,329,baseline
+77,October 2023,DATE,3,15,baseline
+77,the African Group of Negotiators,ORG,17,49,baseline
+77,$1.3 trillion,MONEY,61,74,baseline
+77,annual,DATE,78,84,baseline
+77,2030,DATE,104,108,baseline
+77,approximately $100 billion,MONEY,140,166,baseline
+77,Africa,LOC,242,248,baseline
+77,only 3.8%,PERCENT,258,267,baseline
+77,$50 billion,MONEY,318,329,baseline
+77,100,MONEY,362,365,baseline
+77,2030,DATE,381,385,baseline
+78,Jordan,GPE,0,6,baseline
+78,Azraq,ORG,9,14,baseline
+78,"approximately 43,000",CARDINAL,37,57,baseline
+78,Syrian,NORP,58,64,baseline
+78,first,ORDINAL,94,99,baseline
+78,2017,DATE,159,163,baseline
+78,12.9-megawatt,QUANTITY,171,184,baseline
+78,UNHCR,ORG,216,221,baseline
+78,IKEA Foundation,ORG,226,241,baseline
+78,$5.5 million,MONEY,270,282,baseline
+78,annually,DATE,283,291,baseline
+78,14 hours,TIME,321,329,baseline
+78,only 8 hours,TIME,425,437,baseline
+123,The United Nations Environment Programme,ORG,0,40,baseline
+123,2023,DATE,54,58,baseline
+123,Global Methane Assessment,WORK_OF_ART,59,84,baseline
+123,45%,PERCENT,150,153,baseline
+123,2030,DATE,157,161,baseline
+123,three,CARDINAL,300,305,baseline
+123,UNEP,ORG,323,327,baseline
+123,0.3 degrees,QUANTITY,380,391,baseline
+123,mid-century,DATE,406,417,baseline
+124,The International Maritime Organization,ORG,0,39,baseline
+124,July 2023,DATE,85,94,baseline
+124,2050,DATE,177,181,baseline
+124,50%,PERCENT,209,212,baseline
+124,approximately 3%,PERCENT,246,262,baseline
+124,20%,PERCENT,336,339,baseline
+124,2030,DATE,362,366,baseline
+124,70%,PERCENT,371,374,baseline
+124,2040,DATE,378,382,baseline
+124,2008,DATE,395,399,baseline
+125,Nature Food,ORG,11,22,baseline
+125,approximately 34%,PERCENT,76,93,baseline
+125,14.5%,PERCENT,187,192,baseline
+125,up to 70%,PERCENT,404,413,baseline
+126,The World Resources Institute,ORG,0,29,baseline
+126,22.8 million,CARDINAL,75,87,baseline
+126,2023,DATE,100,104,baseline
+126,every 5 seconds,TIME,154,169,baseline
+126,3.7 million,CARDINAL,214,225,baseline
+126,Brazil,GPE,241,247,baseline
+126,the Democratic Republic of Congo,GPE,249,281,baseline
+126,Bolivia,GPE,287,294,baseline
+127,Jordan,GPE,0,6,baseline
+127,Ministry of Water and Irrigation,ORG,9,41,baseline
+127,the National Water Strategy,ORG,51,78,baseline
+127,2023-2040,DATE,79,88,baseline
+127,25%,PERCENT,102,105,baseline
+127,40%,PERCENT,150,153,baseline
+127,400 million cubic meters,QUANTITY,288,312,baseline
+127,annually,DATE,313,321,baseline
+127,the World Bank,ORG,354,368,baseline
+127,USAID,ORG,370,375,baseline
+127,German,NORP,385,391,baseline
+127,KfW,ORG,411,414,baseline
+127,$1.8 billion,MONEY,428,440,baseline
+128,"over 12,500",CARDINAL,67,78,baseline
+128,1 billion,CARDINAL,90,99,baseline
+128,32%,PERCENT,185,188,baseline
+128,2030,DATE,192,196,baseline
+128,approximately 70%,PERCENT,217,234,baseline
+129,the Middle East,LOC,57,72,baseline
+129,winter,DATE,79,85,baseline
+129,10-20%,PERCENT,108,114,baseline
+129,1960,DATE,121,125,baseline
+129,Earth,LOC,221,226,baseline
+129,the Eastern Mediterranean,LOC,277,302,baseline
+129,3.5,CARDINAL,332,335,baseline
+129,1900,DATE,342,346,baseline
+129,20%,PERCENT,382,385,baseline
+129,2050,DATE,395,399,baseline
+130,The Asian Development Bank,ORG,0,26,baseline
+130,$100 billion,MONEY,37,49,baseline
+130,2019-2030,DATE,88,97,baseline
+130,South,LOC,145,150,baseline
+130,Southeast Asia,LOC,155,169,baseline
+130,$250 million,MONEY,302,314,baseline
+130,Pakistan,GPE,323,331,baseline
+130,$180 million,MONEY,368,380,baseline
+130,India,GPE,421,426,baseline
+131,the Tibetan Plateau,LOC,26,45,baseline
+131,1.5 million square kilometers,QUANTITY,85,114,baseline
+131,Qinghai,GPE,164,171,baseline
+131,2006,DATE,200,204,baseline
+131,0.5 degrees Celsius,QUANTITY,356,375,baseline
+131,1980,DATE,393,397,baseline
+131,40%,PERCENT,403,406,baseline
+131,2100,DATE,452,456,baseline
+132,The European Investment Bank,ORG,0,28,baseline
+132,36 billion,CARDINAL,38,48,baseline
+132,2023,DATE,112,116,baseline
+132,58%,PERCENT,131,134,baseline
+132,4.5 billion,MONEY,182,193,baseline
+132,the North Sea,LOC,221,234,baseline
+132,2 billion,MONEY,238,247,baseline
+132,Poland,GPE,288,294,baseline
+132,500 million,CARDINAL,302,313,baseline
+132,Spain,GPE,357,362,baseline
+132,1 trillion,QUANTITY,390,400,baseline
+132,2030,DATE,430,434,baseline
+133,the Dead Sea,LOC,59,71,baseline
+133,60%,PERCENT,149,152,baseline
+133,1990,DATE,159,163,baseline
+133,the University of Jordan,ORG,182,206,baseline
+133,the Helmholtz Centre for Environmental Research,ORG,211,258,baseline
+133,The Dead Sea's,LOC,364,378,baseline
+133,31.5%,PERCENT,407,412,baseline
+133,34.2%,PERCENT,416,421,baseline
+133,three decades,DATE,425,438,baseline
+134,Indonesia,GPE,0,9,baseline
+134,"600,000",CARDINAL,89,96,baseline
+134,2025,DATE,138,142,baseline
+134,3,CARDINAL,180,181,baseline
+134,5,CARDINAL,185,186,baseline
+134,2024,DATE,293,297,baseline
+134,"130,000",CARDINAL,299,306,baseline
+134,FAO,ORG,390,393,baseline
+134,the Asian Development Bank,ORG,398,424,baseline
+137,The Global Commission on Adaptation,ORG,0,35,baseline
+137,$1.8 trillion,MONEY,61,74,baseline
+137,between 2020 and 2030,DATE,97,118,baseline
+137,five,CARDINAL,126,130,baseline
+137,$7.1 trillion,MONEY,303,316,baseline
+137,Ban Ki-moon,PERSON,367,378,baseline
+137,Bill Gates,PERSON,383,393,baseline
+138,the Alfred Wegener Institute,ORG,16,44,baseline
+138,Nature Climate Change,ORG,67,88,baseline
+138,Antarctic,LOC,106,115,baseline
+138,between 2012 and 2022,DATE,133,154,baseline
+138,the previous decade,DATE,167,186,baseline
+138,the Doomsday Glacier,PERSON,220,240,baseline
+138,2 kilometers,QUANTITY,269,281,baseline
+138,65 centimeters,QUANTITY,342,356,baseline
+138,West Antarctic Ice Sheet,LOC,405,429,baseline
+139,The Jordan River,LOC,0,16,baseline
+139,1.3 billion cubic meters,QUANTITY,34,58,baseline
+139,annually,DATE,59,67,baseline
+139,less than 100 million cubic meters,MONEY,81,115,baseline
+139,93%,PERCENT,120,123,baseline
+139,Israel,GPE,154,160,baseline
+139,Jordan,GPE,162,168,baseline
+139,Syria,GPE,174,179,baseline
+139,Friends of the Earth Middle East,ORG,317,349,baseline
+140,Kenya,GPE,0,5,baseline
+140,Africa,LOC,15,21,baseline
+140,Olkaria,GPE,58,65,baseline
+140,the Great Rift Valley,FAC,69,90,baseline
+140,863 megawatts,QUANTITY,103,116,baseline
+140,45%,PERCENT,131,134,baseline
+140,95%,PERCENT,187,190,baseline
+140,Kenya,GPE,250,255,baseline
+140,"5,000 megawatts",QUANTITY,295,310,baseline
+140,2030,DATE,314,318,baseline
+140,the African Union,ORG,352,369,baseline
+140,the Japan International Cooperation Agency,ORG,374,416,baseline
+142,IPCC,ORG,4,8,baseline
+142,Working Group III,ORG,11,28,baseline
+142,21%,PERCENT,133,136,baseline
+142,zero,CARDINAL,195,199,baseline
+142,2030,DATE,254,258,baseline
+142,2-3%,PERCENT,313,317,baseline
+142,75-90%,PERCENT,397,403,baseline
+143,December 2023,DATE,3,16,baseline
+143,the United Nations,ORG,18,36,baseline
+143,2025,DATE,48,52,baseline
+143,the International Year of Glaciers,EVENT,56,90,baseline
+143,Over 200 million,CARDINAL,202,218,baseline
+143,Hindu,NORP,303,308,baseline
+143,Kush Himalayan,PERSON,309,323,baseline
+143,ten,CARDINAL,383,386,baseline
+143,Asia,LOC,414,418,baseline
+144,Red Sea,LOC,4,11,baseline
+144,Science Advances,ORG,191,207,baseline
+144,the Gulf of Aqaba,FAC,229,246,baseline
+144,4-5 degrees,QUANTITY,274,285,baseline
+144,Jordan,GPE,385,391,baseline
+144,Saudi Arabia,GPE,396,408,baseline
+144,Red Sea,LOC,461,468,baseline
+147,The World Glacier Monitoring Service,ORG,0,36,baseline
+147,over 1 meter,QUANTITY,106,118,baseline
+147,2023,DATE,122,126,baseline
+147,Swiss,NORP,168,173,baseline
+147,10%,PERCENT,194,197,baseline
+147,the past two years,DATE,227,245,baseline
+147,The Aletsch Glacier,PERSON,247,266,baseline
+147,Alps,LOC,287,291,baseline
+147,3 kilometers,QUANTITY,310,322,baseline
+147,1900,DATE,329,333,baseline
+147,80%,PERCENT,359,362,baseline
+147,2100,CARDINAL,388,392,baseline
+148,the Jordan Valley,LOC,39,56,baseline
+148,15-30%,PERCENT,97,103,baseline
+148,40%,PERCENT,140,143,baseline
+148,FAO,ORG,313,316,baseline
+148,the Jordanian Ministry of Agriculture,ORG,321,358,baseline
+148,"10,000",CARDINAL,396,402,baseline
+148,2026,DATE,425,429,baseline
+151,the International Court of Justice,ORG,21,55,baseline
+151,March 2024,DATE,59,69,baseline
+151,Vanuatu,PERSON,215,222,baseline
+151,over 130,CARDINAL,240,248,baseline
+151,"Over 2,300",CARDINAL,363,373,baseline
+151,65,CARDINAL,419,421,baseline
+152,up to 90%,PERCENT,167,176,baseline
+152,Jordan,GPE,213,219,baseline
+152,20-megawatt,QUANTITY,254,265,baseline
+152,the King Talal Dam reservoir,ORG,297,325,baseline
+152,8 million cubic meters,QUANTITY,383,405,baseline
+154,The Global Adaptation Finance Tracker,ORG,0,37,baseline
+154,only 7%,PERCENT,51,58,baseline
+154,The Climate Justice Alliance,ORG,173,201,baseline
+154,Bangladesh,GPE,366,376,baseline
+154,Kenya,GPE,378,383,baseline
+154,Pacific Island,LOC,389,403,baseline
+155,the King Abdullah University of Science and Technology,ORG,15,69,baseline
+155,Saudi Arabia,GPE,73,85,baseline
+155,CRISPR,PERSON,136,142,baseline
+155,Tabuk,LOC,258,263,baseline
+155,85%,PERCENT,284,287,baseline
+155,three,CARDINAL,338,343,baseline
+155,the Middle East,LOC,441,456,baseline
+157,The Global Biodiversity Framework Monitor,ORG,0,41,baseline
+157,37%,PERCENT,56,59,baseline
+157,The Mediterranean Sea,LOC,303,324,baseline
+157,41%,PERCENT,334,337,baseline
+157,1970,DATE,377,381,baseline
+158,Jordan,PERSON,0,6,baseline
+158,the European Space Agency,ORG,22,47,baseline
+158,45,CARDINAL,71,73,baseline
+158,3,CARDINAL,108,109,baseline
+158,the Jordan Valley,LOC,160,177,baseline
+158,$12 million,MONEY,210,221,baseline
+158,March 2024,DATE,249,259,baseline
+158,"15,000",CARDINAL,296,302,baseline
+158,an estimated 22%,PERCENT,398,414,baseline
+158,the 2024 winter season,DATE,422,444,baseline
+160,45 million tonnes,QUANTITY,67,84,baseline
+160,2024,DATE,106,110,baseline
+160,the Global CCS Institute,ORG,125,149,baseline
+160,Gorgon,ORG,189,195,baseline
+160,Western Australia,LOC,207,224,baseline
+160,4 million tonnes,QUANTITY,235,251,baseline
+160,annually,DATE,252,260,baseline
+160,CCS,GPE,288,291,baseline
+161,OECD,ORG,4,8,baseline
+161,$1.3 trillion,MONEY,97,110,baseline
+161,2022,DATE,114,118,baseline
+161,2021,DATE,138,142,baseline
+161,IMF,ORG,256,259,baseline
+161,$7 trillion,MONEY,364,375,baseline
+161,7.1%,PERCENT,401,405,baseline
+162,threatens 40%,PERCENT,16,29,baseline
+162,Earth,LOC,37,42,baseline
+162,2 billion,CARDINAL,88,97,baseline
+162,12 million,CARDINAL,139,149,baseline
+162,annually,DATE,218,226,baseline
+162,$490 billion,MONEY,262,274,baseline
+162,The Sahara Desert,LOC,285,302,baseline
+162,10%,PERCENT,319,322,baseline
+162,1920,DATE,329,333,baseline
+162,Sahel,PERSON,364,369,baseline
+162,approximately 48 kilometers,QUANTITY,383,410,baseline
+164,$2.2 trillion,MONEY,32,45,baseline
+164,the end of 2023,DATE,72,87,baseline
+164,annual,DATE,94,100,baseline
+164,$575 billion,MONEY,119,131,baseline
+164,The European Union,ORG,133,151,baseline
+164,China,GPE,203,208,baseline
+164,the United States,GPE,213,230,baseline
+164,Jordan,PERSON,232,238,baseline
+164,first,ORDINAL,250,255,baseline
+164,2023,DATE,280,284,baseline
+164,$250 million,MONEY,294,306,baseline
+165,73,CARDINAL,57,59,baseline
+165,1 degree,QUANTITY,275,283,baseline
+165,3-5%,PERCENT,357,361,baseline
+167,The Global Heat Health Information Network,ORG,0,42,baseline
+167,2024 heatwave season,DATE,59,79,baseline
+167,El Nino,ORG,136,143,baseline
+167,the Northern Hemisphere,LOC,171,194,baseline
+167,the Middle East,LOC,242,257,baseline
+167,South Asia,LOC,262,272,baseline
+167,hours,TIME,354,359,baseline
+167,Amman,GPE,398,403,baseline
+167,Riyadh,GPE,405,411,baseline
+167,Baghdad,GPE,417,424,baseline
+168,up to 10%,PERCENT,102,111,baseline
+168,2050,DATE,137,141,baseline
+168,The Red Sea's,LOC,163,176,baseline
+168,Saudi Arabia,GPE,255,267,baseline
+168,500-megawatt,QUANTITY,279,291,baseline
+168,Neom,GPE,316,320,baseline
+168,Mediterranean,LOC,369,382,baseline
+168,Spain,GPE,401,406,baseline
+168,Italy,GPE,408,413,baseline
+168,Greece,GPE,419,425,baseline
+170,The Global Stocktake at COP28,WORK_OF_ART,0,29,baseline
+170,first,ORDINAL,35,40,baseline
+170,the Paris Agreement,EVENT,84,103,baseline
+170,2.4-2.6 degrees,QUANTITY,220,235,baseline
+170,2100,DATE,250,254,baseline
+170,non-CO2,NORP,401,408,baseline
+171,AI,GPE,88,90,baseline
+171,30-50%,PERCENT,158,164,baseline
+171,the Jordan Valley,LOC,201,218,baseline
+171,200,CARDINAL,228,231,baseline
+171,IoT,ORG,243,246,baseline
+171,35%,PERCENT,337,340,baseline
+171,GIZ,ORG,425,428,baseline
+171,the Jordanian Ministry of Agriculture,ORG,433,470,baseline
+173,The International Renewable Energy Agency,ORG,0,41,baseline
+173,0.049,MONEY,138,143,baseline
+173,2023,DATE,165,169,baseline
+173,89%,PERCENT,174,177,baseline
+173,2010,DATE,192,196,baseline
+173,0.033,MONEY,226,231,baseline
+173,80%,PERCENT,244,247,baseline
+173,The Middle East,LOC,344,359,baseline
+173,North Africa,GPE,364,376,baseline
+174,the Gulf of Aqaba,FAC,32,49,baseline
+174,23,CARDINAL,75,77,baseline
+174,Red Sea,LOC,181,188,baseline
+174,the University of Jordan,ORG,226,250,baseline
+174,the Aqaba Marine Science Station,ORG,255,287,baseline
+174,Indo-Pacific,ORG,311,323,baseline
+174,Jordanian,NORP,373,382,baseline
+174,Mediterranean,LOC,446,459,baseline
+176,NASA,ORG,17,21,baseline
+176,ESA,ORG,26,29,baseline
+176,GRACE-FO,ORG,65,73,baseline
+176,Sentinel,ORG,78,86,baseline
+176,the Middle East,LOC,141,156,baseline
+176,Arabian,NORP,176,183,baseline
+176,7.8 cubic kilometers,QUANTITY,271,291,baseline
+176,Jordan,GPE,376,382,baseline
+176,Saudi Arabia,GPE,384,396,baseline
+176,Iraq,GPE,402,406,baseline
+176,50 years,DATE,444,452,baseline
+177,The International Labour Organization,ORG,0,37,baseline
+177,80 million,CARDINAL,53,63,baseline
+177,2030,DATE,115,119,baseline
+177,the Middle East,LOC,263,278,baseline
+177,summer hours,TIME,310,322,baseline
+177,Qatar,GPE,347,352,baseline
+177,UAE,GPE,358,361,baseline
+177,Saudi Arabia,GPE,367,379,baseline
+177,Jordan,GPE,381,387,baseline
+177,first,ORDINAL,429,434,baseline
+177,June 2024,DATE,443,452,baseline
+179,African,NORP,4,11,baseline
+179,60%,PERCENT,28,31,baseline
+179,only 1.3%,PERCENT,82,91,baseline
+179,The African Union's Agenda,ORG,116,142,baseline
+179,2063,DATE,143,147,baseline
+179,"500-5,000",CARDINAL,287,296,baseline
+179,Africa,LOC,364,370,baseline
+179,50%,PERCENT,393,396,baseline
+179,2018,DATE,403,407,baseline
+180,Jordanian,NORP,12,21,baseline
+180,The Royal Scientific Society,ORG,191,219,baseline
+180,rainwater harvesting,PERSON,243,263,baseline
+180,Amman,GPE,281,286,baseline
+180,10 million cubic meters,QUANTITY,305,328,baseline
+180,annually,DATE,329,337,baseline
+180,"3,000",CARDINAL,366,371,baseline
+180,Jordan,GPE,411,417,baseline
+180,4 years,DATE,452,459,baseline
+182,The Coral Triangle Initiative,ORG,0,29,baseline
+182,six,CARDINAL,64,67,baseline
+182,Southeast Asian,NORP,68,83,baseline
+182,40 million,CARDINAL,107,117,baseline
+182,marine habitat,ORG,130,144,baseline
+182,2009,DATE,151,155,baseline
+182,76%,PERCENT,177,180,baseline
+182,120 million,CARDINAL,241,252,baseline
+182,annual,DATE,344,350,baseline
+182,2040,DATE,354,358,baseline
+183,12%,PERCENT,82,85,baseline
+183,2050,DATE,113,117,baseline
+183,the Hydrogen Council,ORG,132,152,baseline
+183,The Middle East's,LOC,154,171,baseline
+183,NEOM,ORG,233,237,baseline
+183,Saudi Arabia,GPE,275,287,baseline
+183,4,CARDINAL,300,301,baseline
+183,600 tonnes,QUANTITY,344,354,baseline
+183,Europe,LOC,395,401,baseline
+183,Asia,LOC,406,410,baseline
+185,The United Nations Industrial Development Organization,ORG,0,54,baseline
+185,28%,PERCENT,127,130,baseline
+185,2030,DATE,134,138,baseline
+185,6 million,CARDINAL,154,163,baseline
+185,Jordan,PERSON,336,342,baseline
+185,first,ORDINAL,345,350,baseline
+185,Hussein Bin Talal,PERSON,389,406,baseline
+185,12,CARDINAL,444,446,baseline
+187,India,GPE,0,5,baseline
+187,National Solar Mission,ORG,8,30,baseline
+187,70,CARDINAL,50,52,baseline
+187,2024,DATE,87,91,baseline
+187,280,CARDINAL,103,106,baseline
+187,2030,DATE,120,124,baseline
+187,The Bhadla Solar Park,ORG,126,147,baseline
+187,Rajasthan,GPE,151,160,baseline
+187,"14,000 acres",QUANTITY,171,183,baseline
+187,"2,245 megawatts",QUANTITY,189,204,baseline
+187,India,GPE,268,273,baseline
+187,0.038,MONEY,306,311,baseline
+189,only 6,CARDINAL,81,87,baseline
+189,40,CARDINAL,91,93,baseline
+189,Paris Agreement,FAC,123,138,baseline
+189,the United States,GPE,271,288,baseline
+189,China,GPE,290,295,baseline
+189,Russia,GPE,297,303,baseline
+189,India,GPE,309,314,baseline
+189,1.5-degree,QUANTITY,339,349,baseline
+189,G20,ORG,385,388,baseline
+190,The Global Methane Pledge,WORK_OF_ART,0,25,baseline
+190,Glasgow,GPE,48,55,baseline
+190,over 150,CARDINAL,76,84,baseline
+190,30%,PERCENT,137,140,baseline
+190,2020,DATE,147,151,baseline
+190,2030,DATE,162,166,baseline
+190,0.2 degrees Celsius,QUANTITY,213,232,baseline
+190,2050,DATE,247,251,baseline
+192,The World Economic Forum's,ORG,0,26,baseline
+192,Global Risks Report,ORG,27,46,baseline
+192,2024,DATE,47,51,baseline
+192,two,CARDINAL,139,142,baseline
+192,10-year,DATE,163,170,baseline
+193,the European Space Agency's,ORG,25,52,baseline
+193,the Jordan Valley,LOC,108,125,baseline
+193,18%,PERCENT,142,145,baseline
+193,between 2015 and 2023,DATE,146,167,baseline
+195,The Blue Carbon Initiative,ORG,0,26,baseline
+195,up to 10,CARDINAL,116,124,baseline
+195,The Gulf of Aqaba's,FAC,181,200,baseline
+195,approximately 400 hectares,QUANTITY,228,254,baseline
+195,Jordanian,NORP,265,274,baseline
+195,"an estimated 1,800",CARDINAL,292,310,baseline
+195,annually,DATE,325,333,baseline
+197,The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services,ORG,0,84,baseline
+197,1 million,CARDINAL,100,109,baseline
+197,17 kilometers,QUANTITY,279,292,baseline
+197,11 meters,QUANTITY,332,341,baseline
+197,"100 to 1,000",CARDINAL,398,410,baseline
+198,Middle Eastern,NORP,68,82,baseline
+198,summer,DATE,123,129,baseline
+198,60-80%,PERCENT,207,213,baseline
+198,over 30%,PERCENT,339,347,baseline
+198,Dubai,GPE,367,372,baseline
+198,Sustainable City,GPE,375,391,baseline
+198,40%,PERCENT,421,424,baseline
+200,The Global Landscape of Climate Finance,WORK_OF_ART,0,39,baseline
+200,2023,DATE,40,44,baseline
+200,the Climate Policy Initiative,ORG,55,84,baseline
+200,$1.27 trillion,MONEY,126,140,baseline
+200,2021-2022,DATE,144,153,baseline
+200,63%,PERCENT,157,160,baseline
+200,$8.1 trillion,MONEY,222,235,baseline
+200,annually,DATE,243,251,baseline
+200,2030,DATE,255,259,baseline
+200,1.5 degrees,QUANTITY,280,291,baseline
+200,94%,PERCENT,326,329,baseline
+200,only 6%,PERCENT,370,377,baseline
